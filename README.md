@@ -30,9 +30,7 @@ Project ini merupakan tugas akhir pembuatan website dengan penerapan **semantic 
 
 1. **Clone repository ini**
    
-   ```bash```
-   
-   git clone <url-repository>
+   ```git clone https://github.com/Shabrinashsf/Final-Project-Dasar-Pemrograman-Web-Dicoding.git```
 
 2. Masuk ke folder project
    
